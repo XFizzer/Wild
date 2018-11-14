@@ -1,0 +1,8 @@
+name: Wild
+main: Wild\Main
+author: XFizzer
+version: 1.0.0
+api: 3.0.0
+commands:
+  wild:
+    description: teleport to anywhere in the wild
